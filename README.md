@@ -36,9 +36,13 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Screenshot
 
+<<<<<<< HEAD
 
 ## Deployed Application
 
 
 ## Source Code 
 https://github.com/coding-boot-camp/solid-broccoli.git
+=======
+## Deployment Link 
+>>>>>>> f9a59847e1b4f4d33219975b375796814b968248

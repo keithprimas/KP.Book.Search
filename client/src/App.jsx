@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import SearchBooks from "./pages/SearchBooks";
@@ -42,3 +43,20 @@ function App() {
 }
 
 export default App;
+=======
+import './App.css';
+import { Outlet } from 'react-router-dom';
+
+import Navbar from './components/Navbar';
+
+function App() {
+  return (
+    <>
+      <Navbar />
+      <Outlet />
+    </>
+  );
+}
+
+export default App;
+>>>>>>> f9a59847e1b4f4d33219975b375796814b968248
